@@ -46,12 +46,12 @@ export default function RootLayout({
                 </a>
 
                 <a
-                  href="https://soundcloud.com/YOUR_PROFILE"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="rounded-lg border border-white/10 px-3 py-2 text-sm text-white/80 transition hover:bg-white/5 hover:text-white hover:shadow-[0_0_18px_rgb(var(--accent)/0.22)]"
-                >
-                  SoundCloud
+                  href="https://www.youtube.com/@djsamix"
+  target="_blank"
+  rel="noreferrer"
+  className="rounded-lg border border-white/10 px-3 py-2 text-sm text-white/80 transition hover:bg-white/5 hover:text-white hover:shadow-[0_0_18px_rgb(var(--accent)/0.22)]"
+>
+  YouTube
                 </a>
 
                 <a
